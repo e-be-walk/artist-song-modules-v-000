@@ -10,7 +10,7 @@ module Memorable
       @@artists.count
     end
   end
-end
   module InstanceMethods
   end
 end
+
